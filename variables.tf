@@ -1,5 +1,6 @@
 variable "location" {
-  type = string
+  type        = string
+  description = "location"
 }
 variable "name" {
   type = string
