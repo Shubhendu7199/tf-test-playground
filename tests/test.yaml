@@ -1,0 +1,8 @@
+azure:
+  location: eastus2
+
+rg:
+  name: Test-RG
+  tags: 
+    env: Test
+    owner: CloundHub
